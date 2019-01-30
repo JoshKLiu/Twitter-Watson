@@ -4,10 +4,10 @@ var Twitter = require('twitter')
 var app = express();
 
 var T = new Twitter({
-    consumer_key: '92YlXn49CPpbZ0iLROm5F1yPf',
-    consumer_secret: 'exexjdtuuNbbLW7XZ7Ms0MIBuEDfBoXQHE7EzGNnCsLwB8YU33',
-    access_token_key: '357766764-M2TZahHaw0jww8MGNiTO5N06TDHb17CBdblDWdsa',
-    access_token_secret: '0tuo8SeCA95HKcdoKetlKRNmyb2rrHttbhLQPYrz5fsCC'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token_key: '357766764-',
+    access_token_secret: ''
 });
 
 
